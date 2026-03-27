@@ -1,0 +1,18 @@
+node_modules/
+*.log
+.env
+*.zip
+.DS_Store
+Thumbs.db
+*.swp
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+htdocs/event-management-master.zip
+database/events.sql  # Add if sensitive; else commit DB schema
+
+# XAMPP/local
+xampp/
+*.bat
+
